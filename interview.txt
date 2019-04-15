@@ -1,0 +1,58 @@
+Q: imagine you're given a totally new problem that you don't have a clear solution yet;
+Read the question;
+Give me one minute, let me think of the problem;
+I think I still have several questions, could I first confirm that?
+==>Okay, so I'll explain my approach by an example;
+  ==>I'm not there yet, but I could think of a brute force way, not actually good,
+     shall I first explain that, maybe we could find a better solution:
+    ==>I don't have a clear solution now, but let's just give a try, maybe I could find a possible solution here
+       I'll start from some basic examples
+==>
+######################感觉做不出来怎么办#########################
+Sorry I get stuck here, it seems I don't know what to know next;
+based on current case, I couldn't jump out;
+If we have this variant, we couldn't
+
+By the way, could I also work at night in the office? Usually I could finish my work, but for research,
+I found it's better to continue my work and finish coding by the end of the day.
+##############################################################
+"ccc"
+  ^
+  Shall I use a ;
+
+Let me try to check my code;
+
+Thanks for all your time, I'll start by giving a simple example;
+
+Don't keep asking questions, introduce the whole simple pipeline,
+and think about special case or a never-miss requirement;
+
+Type smoothly, and go back to correct the code;
+
+if not able: please, don't give up on me, I could still try!!!
+
+Q:
+- How to solve the backtracking problem more efficiently?(google problem)
+- How to design algorithm to find longest increasing subsequence?
+- For input with two(two strings with longest), or for using two (middle stack, merge sort), how could we do it more
+    efficiently?
+- When we have multiple variables, exist and die together, while also update from each other?
+- Dynamic programming,
+// About formating in C++: https://google.github.io/styleguide/cppguide.html#Formatting
+/*
+if (int i = 0; i < arr.size(); i++)
+{
+  do somethings;   // be careful with incident
+}
+else
+{
+  do another things;   // we use the
+}
+
+if (condition) return results;
+
+name_variable;
+Name_Variable;
+NAME_VARIABLE;
+NameFunc()
+*/

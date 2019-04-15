@@ -17,7 +17,7 @@ struct TreeNode
 
 class BinTree
 {
-private:+
+private:
     TreeNode *tree;
 public:
     // count methods
@@ -36,7 +36,7 @@ public:
 
 int countNodes(TreeNode *root)
 {
-    if(root == NULL)
+    if( root == NULL )
         return 0;
     else
     {
